@@ -15,7 +15,3 @@ Aprendi a:
 - Gerenciar segurança e permissões via Security Groups (regras de entrada e saída);
 - Encerrar e remover instâncias de forma segura.
 - Criar luxograma da Arquitetura draw.io
-
-
- dio-key.pem
-  ssh -i dio-key.pem ubuntu@<seu_ip_p
